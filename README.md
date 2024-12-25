@@ -1,2 +1,4 @@
 # DSA-C-
 DATA STRUCTURE in C++
+
+"DSA in C++,' is a complete collection of Data Structures and Algorithms implemented using the C++ programming language. It includes essential concepts like arrays, linked lists, stacks, queues, trees, graphs, sorting, searching, dynamic programming, and more. Each implementation is accompanied by clear, well-commented code and practical examples to aid understanding. Designed for students, developers, and coding enthusiasts, this repository serves as a valuable resource for mastering DSA, preparing for technical interviews, or enhancing problem-solving skills. Contributions are welcome to expand and improve the collection. Start exploring and strengthen your knowledge of DSA with hands-on C++ examples."
